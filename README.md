@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://imgur.com/TUKyoMz" width="600px">
+	<img src="https://imgur.com/TUKyoMz" width="624px">
 </p>
 
 #### Version 2.0.0
@@ -8,27 +8,26 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 # Scans That You Can Perform Using DARK EAGLE :
 + Basic Scan
-	- Site Title **NEW**
+	- Site Title 
 	- IP Address
-	- Web Server Detection `IMPROVED`
+	- Web Server Detection 
 	- CMS Detection
 	- Cloudflare Detection
 	- robots.txt Scanner
-+ Whois Lookup `IMPROVED`
++ Whois Lookup 
 + Geo-IP Lookup
-+ Grab Banners `IMPROVED`
++ Grab Banners 
 + DNS Lookup
 + Subnet Calculator
 + Nmap Port Scan
-+ Sub-Domain Scanner `IMPROVED`
++ Sub-Domain Scanner 
 	- Sub Domain
 	- IP Address
-+ Reverse IP Lookup & CMS Detection `IMPROVED`
++ Reverse IP Lookup & CMS Detection 
 	- Hostname
 	- IP Address
 	- CMS
 + Error Based SQLi Scanner
-+ Bloggers View **NEW**
 	- HTTP Response Code
 	- Site Title
 	- Alexa Ranking
@@ -36,7 +35,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 	- Page Authority
 	- Social Links Extractor
 	- Link Grabber
-+ WordPress Scan **NEW**
++ WordPress Scan 
 	- Sensitive Files Crawling
 	- Version Detection
 	- Version Vulnerability Scanner
@@ -58,8 +57,8 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 Modules.
 # Usage:
-- git clone `https://github.com/nandydark/DARK EAGLE
-- cd DARK EAGLE
+- git clone `https://github.com/nandydark/DARK-EAGLE
+- cd DARK-EAGLE
 - php darkeagle.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
