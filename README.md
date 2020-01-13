@@ -41,21 +41,16 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 ---
 - Version 2.0.0
 	- Separated all scans so that you are served the amount of information you need
-	- `Sub-Domain Scanner` improved
-	- `fix` command improved
-	- `Web Server Detection` Improved
-	- `CMS Detection` Improved
-	- `Banner Grabbing` Improved
-	- Added `WordPress Scanner`
-	- Added `Bloggers View`
-	- Added `MX Lookup`
-	- Added `Update` option
+	- Sub-Domain Scanner
+	- fix command improved
+	- Web Server Detection
+	- CMS Detection
+	- Added WordPress Scanner
 	- DARK EAGLE Banner Updated
-	- Many Other Internal Fixes
 
 Modules.
 # Usage:
-- git clone `https://github.com/nandydark/DARK-EAGLE
+- git clone https://github.com/nandydark/DARK-EAGLE.git
 - cd DARK-EAGLE
 - php darkeagle.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
