@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://imgur.com/TUKyoMz" width="624px">
-</p>
+![DARKEAGLE](https://user-images.githubusercontent.com/58636468/72290307-e555d280-3672-11ea-9b82-76c9fdb77bf9.png)
 
 #### Version 2.0.0
 #### By NANDYDARK
